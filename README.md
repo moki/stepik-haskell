@@ -5,3 +5,4 @@ haskell course [stepik](https://stepik.org/course/75)
 ## 1 Intro
 
 [Intro](1/README.md)
+[Basics](2/README.md)
